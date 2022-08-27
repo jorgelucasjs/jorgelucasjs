@@ -8,5 +8,6 @@ Here are some ideas to get you started:
 
 - 🔭 At the moment I work at ToqueMedia, as a web developer.
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgelucasjs)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgelucasjs&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
