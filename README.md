@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ## Get in Touch
-📫 You can reach me at [your_email@example.com](jorge.tomasgt@gmail.com) or connect with me on LinkedIn or Twitter.
+📫 You can reach me at [jorge.tomasgt@gmail.com] or connect with me on LinkedIn.
 🌐 [LinkedIn](https://www.linkedin.com/in/jorge-lucas-js-40201a1a2/)
 
 Let's collaborate and build amazing projects together! Feel free to explore my repositories and reach out if you have any questions or opportunities.
