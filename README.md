@@ -30,15 +30,6 @@ I am currently working at ToqueMedia as a Mobile Developer, where I focus on cre
 - **Other:**
   - 🌐 HTML, CSS, JavaScript, TypeScript (Proficient)
 
-<h2 style="color: #007ACC;">Featured Projects</h2>
-
-- **[Project Name](link)**  
-  ![Project Screenshot](link-to-screenshot)  
-  A brief description of the project and my role in it.
-- **[Another Project](link)**  
-  ![Another Project Screenshot](link-to-screenshot)  
-  Description and my contributions.
-
 <h2 style="color: #007ACC;">GitHub Stats</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgelucasjs&count_private=true&show_icons=true&theme=radical)
