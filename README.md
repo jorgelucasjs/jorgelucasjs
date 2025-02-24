@@ -1,30 +1,46 @@
-# Hi, I'm Jorge LucasJs 👋
+# Hi, I'm Jorge Lucas 👋
 
 ## About Me
 
-I'm a passionate and versatile developer with a diverse skill set. I specialize in mobile app development with Kotlin and React Native, web development using React.js, Node.js, and PHP, and database management with Firebase and MySQL.
+As a software developer, I bring a diverse skill set to the table, with a focus on mobile app development using Kotlin and React Native, and web development with React.js, Node.js, and PHP. My experience also includes managing databases with Firebase and MySQL. I am passionate about creating efficient, user-friendly applications and continuously expanding my technical knowledge.
 
-🚀 Here are some of the technologies I work with:
+## Current Role
 
-- **Mobile App Development:** Kotlin, React Native
-- **Web Development:** React.js, Node.js, PHP
-- **Databases:** Firebase, MySQL
-- **Version Control:** Git
-- **Other:** HTML, CSS, JavaScript, Typescript
+I am currently working at ToqueMedia as a Mobile Developer, where I focus on creating innovative mobile applications that enhance user engagement and experience.
 
-<!--
-**jorgelucasjs/jorgelucasjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies I Work With
 
-Here are some ideas to get you started:
+- **Mobile App Development:**
+  - Kotlin (Proficient)
+  - React Native (Experienced)
 
-- 🔭 At the moment I work at ToqueMedia, as a Mobile developer.
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgelucasjs&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelucasjs)](https://github.com/anuraghazra/github-readme-stats)
+- **Web Development:**
+  - React.js (Proficient)
+  - Node.js (Experienced)
+  - PHP (Familiar)
 
+- **Databases:**
+  - Firebase (Experienced)
+  - MySQL (Proficient)
+
+- **Version Control:**
+  - Git (Proficient)
+
+- **Other:**
+  - HTML, CSS, JavaScript, TypeScript (Proficient)
+
+## Featured Projects
+
+- [Project Name](link): A brief description of the project and my role in it.
+- [Another Project](link): Description and my contributions.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgelucasjs&count_private=true&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelucasjs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in Touch
-📫 You can reach me at [jorge.tomasgt@gmail.com] or connect with me on LinkedIn.
+
+I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me at [jorge.tomasgt@gmail.com] or connect with me on LinkedIn.
+
 🌐 [LinkedIn](https://www.linkedin.com/in/jorge-lucas-js-40201a1a2/)
 
-Let's collaborate and build amazing projects together! Feel free to explore my repositories and reach out if you have any questions or opportunities.
+Let's build something amazing together!
