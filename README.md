@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Jorge Lucas - Mobile & Web Developer](link-to-banner-image)
+![Jorge Lucas - Mobile & Web Developer]
 
 <h1 style="color: #007ACC;">Hi, I'm Jorge Lucas 👋</h1>
 
