@@ -1,6 +1,4 @@
 <!-- Banner Image -->
-![Jorge Lucas - Mobile & Web Developer]
-
 <h1 style="color: #007ACC;">Hi, I'm Jorge Lucas 👋</h1>
 
 <h2 style="color: #007ACC;">About Me</h2>
