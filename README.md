@@ -23,7 +23,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor de software com foco em aplicações **móveis** (Kotlin e React Native) e **web** (React.js, Node.js e PHP). Trabalho com bases de dados como Firebase e MySQL e gosto de construir produtos úteis, rápidos e fáceis de usar.
+Sou desenvolvedor de software com foco em aplicações **móveis** (Kotlin e React Native) e **web** (React.js e Node.js). Trabalho com bases de dados relacionais e não relacionais e gosto de construir produtos úteis, rápidos e fáceis de usar.
 
 Estou sempre a aprender e a melhorar o que já sei.
 
@@ -42,11 +42,10 @@ Antes disso, fui Mobile Developer na ToqueMedia, a criar apps com foco em experi
 **Web**
 - React.js — avançado
 - Node.js — intermédio/avançado
-- PHP — básico/intermédio
 
 **Bases de dados**
-- Firebase — intermédio/avançado
-- MySQL — avançado
+- Relacional — MySQL
+- Não relacional — Firebase
 
 **Ferramentas**
 - Git
