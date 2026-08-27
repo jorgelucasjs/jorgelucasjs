@@ -50,16 +50,6 @@ Antes disso, fui Mobile Developer na ToqueMedia, a criar apps com foco em experi
 **Ferramentas**
 - Git
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgelucasjs&count_private=true&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelucasjs&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
 ## Contacto
 
 Aberto a projetos, colaborações e novas oportunidades.
