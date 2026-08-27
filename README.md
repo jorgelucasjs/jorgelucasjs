@@ -1,46 +1,74 @@
-<!-- Banner Image -->
-<h1 style="color: #007ACC;">Hi, I'm Jorge Lucas 👋</h1>
+<h1 align="center">Olá, eu sou o Jorge Lucas 👋</h1>
 
-<h2 style="color: #007ACC;">About Me</h2>
+<p align="center">
+  Desenvolvedor de software · Mobile & Web · Angola
+</p>
 
-As a software developer, I bring a diverse skill set to the table, with a focus on mobile app development using Kotlin and React Native, and web development with React.js, Node.js, and PHP. My experience also includes managing databases with Firebase and MySQL. I am passionate about creating efficient, user-friendly applications and continuously expanding my technical knowledge.
+<p align="center">
+  <a href="https://edukuza.com/">
+    <img src="https://img.shields.io/badge/Edukuza-0A66C2?style=for-the-badge" alt="Edukuza" />
+  </a>
+  <a href="https://www.linkedin.com/in/jorge-lucas-js-40201a1a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/jorgelucasjs">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:jorge.tomasgt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<h2 style="color: #007ACC;">Current Role</h2>
+---
 
-I am currently working at ToqueMedia as a Mobile Developer, where I focus on creating innovative mobile applications that enhance user engagement and experience.
+## Sobre mim
 
-<h2 style="color: #007ACC;">Technologies I Work With</h2>
+Sou desenvolvedor de software com foco em aplicações **móveis** (Kotlin e React Native) e **web** (React.js, Node.js e PHP). Trabalho com bases de dados como Firebase e MySQL e gosto de construir produtos úteis, rápidos e fáceis de usar.
 
-- **Mobile App Development:**
-  - 📱 Kotlin (Proficient)
-  - ⚛️ React Native (Experienced)
+Estou sempre a aprender e a melhorar o que já sei.
 
-- **Web Development:**
-  - ⚛️ React.js (Proficient)
-  - 🟢 Node.js (Experienced)
-  - 🐘 PHP (Familiar)
+## Onde trabalho agora
 
-- **Databases:**
-  - 🔥 Firebase (Experienced)
-  - 🗄️ MySQL (Proficient)
+Atualmente trabalho na **[Edukuza](https://edukuza.com/)**, uma plataforma angolana que ajuda estudantes a gerar e organizar **monografias e TCCs com inteligência artificial**.
 
-- **Version Control:**
-  - 🐙 Git (Proficient)
+Antes disso, fui Mobile Developer na ToqueMedia, a criar apps com foco em experiência e envolvimento do utilizador.
 
-- **Other:**
-  - 🌐 HTML, CSS, JavaScript, TypeScript (Proficient)
+## Tecnologias
 
-<h2 style="color: #007ACC;">GitHub Stats</h2>
+**Mobile**
+- Kotlin — avançado
+- React Native — intermédio/avançado
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgelucasjs&count_private=true&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelucasjs)](https://github.com/anuraghazra/github-readme-stats)
+**Web**
+- React.js — avançado
+- Node.js — intermédio/avançado
+- PHP — básico/intermédio
 
-<h2 style="color: #007ACC;">Get in Touch</h2>
+**Bases de dados**
+- Firebase — intermédio/avançado
+- MySQL — avançado
 
-I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me at [jorge.tomasgt@gmail.com](mailto:jorge.tomasgt@gmail.com) or connect with me on LinkedIn or GitHub.
+**Ferramentas**
+- Git
+- HTML, CSS, JavaScript e TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-lucas-js-40201a1a2/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jorgelucasjs)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorge.tomasgt@gmail.com)
+## Estatísticas do GitHub
 
-Let's build something amazing together!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgelucasjs&count_private=true&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelucasjs&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
+
+## Contacto
+
+Aberto a projetos, colaborações e novas oportunidades.
+
+- Email: [jorge.tomasgt@gmail.com](mailto:jorge.tomasgt@gmail.com)
+- LinkedIn: [jorge-lucas-js](https://www.linkedin.com/in/jorge-lucas-js-40201a1a2/)
+- GitHub: [jorgelucasjs](https://github.com/jorgelucasjs)
+- Projeto atual: [edukuza.com](https://edukuza.com/)
+
+Vamos construir algo interessante juntos.
