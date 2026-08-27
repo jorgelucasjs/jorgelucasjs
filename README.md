@@ -44,12 +44,11 @@ Antes disso, fui Mobile Developer na ToqueMedia, a criar apps com foco em experi
 - Node.js — intermédio/avançado
 
 **Bases de dados**
-- Relacional — MySQL
-- Não relacional — Firebase
+- Relacional 
+- Não relacional
 
 **Ferramentas**
 - Git
-- HTML, CSS, JavaScript e TypeScript
 
 ## Estatísticas do GitHub
 
