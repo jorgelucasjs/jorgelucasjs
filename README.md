@@ -1,62 +1,41 @@
 <h1 align="center">Olá, eu sou o Jorge Lucas 👋</h1>
 
 <p align="center">
-  Desenvolvedor de software · Mobile & Web · Angola
+  Desenvolvedor de software · IA, Mobile e Web · Angola
 </p>
 
 <p align="center">
-  <a href="https://edukuza.com/">
-    <img src="https://img.shields.io/badge/Edukuza-0A66C2?style=for-the-badge" alt="Edukuza" />
-  </a>
-  <a href="https://www.linkedin.com/in/jorge-lucas-js-40201a1a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/jorgelucasjs">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:jorge.tomasgt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://edukuza.com/"><img src="https://img.shields.io/badge/Edukuza-0A66C2?style=for-the-badge" alt="Edukuza" /></a>
+  <a href="https://www.linkedin.com/in/jorge-lucas-js-40201a1a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jorge.tomasgt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou desenvolvedor de software com foco em aplicações **móveis** (Kotlin e React Native) e **web** (React.js e Node.js). Trabalho com bases de dados relacionais e não relacionais e gosto de construir produtos úteis, rápidos e fáceis de usar.
+Há mais de um ano que trabalho com **inteligência artificial**: integro modelos de linguagem em produtos reais, desenho fluxos com agentes e ferramentas, e cuido para que tudo seja rápido, fiável e barato de correr.
 
-Estou sempre a aprender e a melhorar o que já sei.
+Antes disso, e ainda hoje, construo aplicações **mobile** (Kotlin, React Native) e **web** (React, Node.js).
 
-## Onde trabalho agora
+## Agora
 
-Atualmente trabalho na **[Edukuza](https://edukuza.com/)**, uma plataforma angolana que ajuda estudantes a gerar e organizar **monografias e TCCs com inteligência artificial**.
+Trabalho na **[Edukuza](https://edukuza.com/)**, uma plataforma angolana que ajuda estudantes a criar e organizar **monografias e TCCs com IA**.
 
-Antes disso, fui Mobile Developer na ToqueMedia, a criar apps com foco em experiência e envolvimento do utilizador.
+Antes, fui Mobile Developer na ToqueMedia.
 
-## Tecnologias
+## Com o que trabalho
 
-**Mobile**
-- Kotlin — avançado
-- React Native — intermédio/avançado
-
-**Web**
-- React.js — avançado
-- Node.js — intermédio/avançado
-
-**Bases de dados**
-- Relacional 
-- Não relacional
-
-**Ferramentas**
-- Git
+| Área | Tecnologias |
+|---|---|
+| IA | LLMs, agentes, RAG, integração de APIs de IA |
+| Mobile | Kotlin, React Native |
+| Web | React, Node.js, TypeScript |
+| Dados | SQL e NoSQL (Firebase / Firestore) |
+| Ferramentas | Git, Firebase, Cloud Functions |
 
 ## Contacto
 
-Aberto a projetos, colaborações e novas oportunidades.
+Aberto a projectos e colaborações, sobretudo com IA.
 
-- Email: [jorge.tomasgt@gmail.com](mailto:jorge.tomasgt@gmail.com)
-- LinkedIn: [jorge-lucas-js](https://www.linkedin.com/in/jorge-lucas-js-40201a1a2/)
-- GitHub: [jorgelucasjs](https://github.com/jorgelucasjs)
-- Projeto atual: [edukuza.com](https://edukuza.com/)
-
-Vamos construir algo interessante juntos.
+📧 [jorge.tomasgt@gmail.com](mailto:jorge.tomasgt@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jorge-lucas-js-40201a1a2/) · 🌐 [edukuza.com](https://edukuza.com/)
